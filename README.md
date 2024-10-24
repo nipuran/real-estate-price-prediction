@@ -108,4 +108,4 @@ The models have been fine-tuned using cross-validation, and the best model param
 
 ### Preview
 
-![App Preview]('preview-streamlit-app.jpeg')
+![App Preview]('https://github.com/nipuran/real-estate-price-prediction/blob/main/preview-streamlit-app.jpeg')
